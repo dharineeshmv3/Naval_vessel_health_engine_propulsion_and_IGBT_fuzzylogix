@@ -16,16 +16,6 @@ This work was developed as part of the **23ELC212 Machine Learning** course at A
 
 ---
 
-## 👥 Team
-
-| Name | Roll No. | Contribution |
-|---|---|---|
-| Dharineesh MV | CB.EN.U4ELC24105 | Mechanical system modelling & Fuzzy Logic (Python) |
-| Harshitaa JA | CB.EN.U4ELC24112 | IGBT modelling, Mechanical system & Documentation |
-| Haritha SK | CB.EN.U4ELC24151 | IGBT modelling & MATLAB Fuzzy Logic |
-
----
-
 ## 🗂️ Repository Structure
 
 ```
